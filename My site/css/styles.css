@@ -1,0 +1,121 @@
+
+body{
+  margin: 0;
+text-align: center;
+font-family: Merriweather;
+}
+.Top{
+  position: relative;
+  padding: 35px 0 0 0;
+    background-color: #C3F8FF;
+}
+h1{
+  height: 4rem;
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 0 auto 0 auto;
+  font-family: Sacramento;
+}
+h2{
+  color: #66BFBF;
+  font-family: Montserrat;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: Montserrat;
+}
+.footer-link{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.s1{
+  width: 25%;
+  float:left;
+  margin-left:30px;
+}
+.s2{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.profile{
+  margin: 100px auto;
+  width: 400px;
+  line-height: 2;
+}
+.Profilepic{
+  width: 50%;
+}
+.dots{
+  width: 10%;
+  border-top: 10px dotted #31E1F7;
+  border-bottom: none;
+}
+.CU{
+  width: 15%
+}
+.C1{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.C2{
+  position: relative;
+  left: 200px;
+}
+.contact-me{
+line-height: 2;
+font-weight: 400;
+width: 400px;
+margin:auto;
+
+}
+.btn{
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container{
+  margin-top: 50px;
+  margin-bottom: 0;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  border-bottom: 0;
+  background-color: #66BFBF;
+  color: white;
+}
+.footer-link{
+  font-family: Merriweather;
+  padding: 30px;
+  color: #11999E;
+  text-decoration: none;
+}
